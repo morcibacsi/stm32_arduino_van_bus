@@ -1,0 +1,7 @@
+*.h                     text diff=cpp eol=crlf
+*.c                     text diff=cpp eol=crlf
+*.cpp                   text diff=cpp eol=crlf
+*.ino                   text diff=cpp eol=crlf
+
+.gitignore              text
+.gitattributes          text

@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Stm32ArduinoVanBus	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Init	KEYWORD2
+Receive	KEYWORD2
+IsCrcOk	KEYWORD2
+SendNormalFrame	KEYWORD2
+SendQueryFrame	KEYWORD2
+SendQueryFrameForDeferredReply	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+VAN_LINE_LEVEL	LITERAL1
+VAN_NETWORK_TYPE	LITERAL1
