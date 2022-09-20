@@ -10,7 +10,7 @@ It doesn't support boards other than the STM32 family yet, but it shouldn't be d
 
 ## Schematics
 
-![schema](https://github.com/morcibacsi/stm32_arduino_van_bus/raw/master/extras/schema/stm32-mcp2551-iso-a.jpg)
+![schema](https://github.com/morcibacsi/stm32_arduino_van_bus/blob/master/extras/schema/stm32_mcp2551-iso-a.jpg)
 
 ## Example
 
@@ -63,7 +63,7 @@ void loop()
 
 ## Sample output
 
-![output](https://github.com/morcibacsi/stm32_arduino_van_bus/raw/master/extras/stm32_van_capture.gif)
+![output](https://github.com/morcibacsi/stm32_arduino_van_bus/blob/master/extras/stm32_van_capture.gif)
 
 ## Installation
 
